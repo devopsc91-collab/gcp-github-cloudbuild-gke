@@ -1,0 +1,18 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+gke-plan
+terraform/gke-plan
+crash.log
+crash.*.log
+
+# Credentials and keys
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# Local files
+.DS_Store

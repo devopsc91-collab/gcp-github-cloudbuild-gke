@@ -1,0 +1,5 @@
+project_id        = "gcp-demo-project-514613"
+region            = "us-central1"
+zone              = "us-central1-a"
+cluster_name      = "gke-devops-lab"
+node_machine_type = "e2-small"
